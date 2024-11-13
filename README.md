@@ -21,7 +21,7 @@ CodeCanvas is a modern, elegant code beautification and sharing tool that helps 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/codecanvas.git
+git clone https://github.com/s87343472/CodeCanvas.git
 
 # Install dependencies
 npm install
